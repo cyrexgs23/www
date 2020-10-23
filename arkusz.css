@@ -1,0 +1,66 @@
+body
+{
+	font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	background-color: #808080;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	
+}
+
+#nav
+{
+	background-color: #C4C4C4;
+	padding: 10px;
+}
+ 
+#content
+{
+	padding: 10px;
+	background-color: #DCDCDC;
+	min-height: 600px;
+	text-align: justify;
+	font-size: 18px;
+}
+
+#footer
+{
+	clear: both;
+	background-color: #000000;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+.option
+{
+	float: left;
+	font-size: 20px;
+	padding: 10px;
+	border-right:2px solid black;
+	
+}
+
+.option:hover
+{
+	background-color:#ECECEC;
+	cursor: pointer;
+}
+
+a.tilelink
+{
+	color: #000000;
+	text-decoration: none;
+}
+	
